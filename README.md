@@ -1,6 +1,6 @@
 # Sistema de Classificação de Galáxias Multi-Agente
 
-Sistema simples de classificação de galáxias usando arquitetura multi-agente para disciplina de mestrado.
+Sistema simples de classificação de galáxias usando arquitetura multi-agente para disciplina Agentes Inteligentes.
 
 ## Visão Geral
 
