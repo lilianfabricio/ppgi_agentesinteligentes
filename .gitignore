@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+venv/
+env/
+*.egg-info/
+
+# Data
+data/raw/*
+data/processed/*
+!data/samples/
+*.h5
+*.hdf5
+*.pkl
+
+# Models
+models/*.pth
+models/*.pt
+*.weights
+
+# Secrets
+.env
+*.key
+
+# OS
+.DS_Store
+
+# Logs
+*.log
+logs/
